@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wallpedia</string>
+
+    //drawer open and closing string
+    <string name="drawerOpenString">Open Nav bar</string>
+    <string name="drawerCloseString">Close Nav bar</string>
+</resources>

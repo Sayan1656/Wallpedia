@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/Home"
+            android:icon="@drawable/icons8_home"
+            android:title="Home"
+            />
+        <item android:id="@+id/Notch"
+            android:icon="@drawable/icons8_water_100"
+            android:title="Notch"
+            />
+        <item android:id="@+id/Popular"
+            android:icon="@drawable/icons8_trending_100"
+            android:title="Popular"
+            />
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/AboutUs"
+            android:icon="@drawable/icons8_more_info_100"
+            android:title="About Us"
+            />
+    </group>
+    <group android:checkableBehavior="none">
+        <item android:id="@+id/copyright"
+            android:title="Copyright Desclimar"/>
+    </group>
+</menu>
